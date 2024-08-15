@@ -1,2 +1,2 @@
 # drdo_project
-Buidling Detectoin usinng CV
+Buidling Detectoin using CV
